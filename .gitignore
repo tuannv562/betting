@@ -282,4 +282,5 @@ pip-selfcheck.json
 betting/media/
 
 .pytest_cache/
+.idea/
 .env

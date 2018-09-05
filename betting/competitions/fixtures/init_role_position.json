@@ -1,0 +1,58 @@
+[
+  {
+    "model": "competitions.position",
+    "pk": 1,
+    "fields": {
+      "name": "Goalkeeper"
+    }
+  },
+  {
+    "model": "competitions.position",
+    "pk": 2,
+    "fields": {
+      "name": "Defender"
+    }
+  },
+  {
+    "model": "competitions.position",
+    "pk": 3,
+    "fields": {
+      "name": "Midfielder"
+    }
+  },
+  {
+    "model": "competitions.position",
+    "pk": 4,
+    "fields": {
+      "name": "Attacker"
+    }
+  },
+  {
+    "model": "competitions.role",
+    "pk": 1,
+    "fields": {
+      "name": "PLAYER"
+    }
+  },
+  {
+    "model": "competitions.role",
+    "pk": 2,
+    "fields": {
+      "name": "COACH"
+    }
+  },
+  {
+    "model": "competitions.role",
+    "pk": 3,
+    "fields": {
+      "name": "ASSISTANT_COACH"
+    }
+  },
+  {
+    "model": "competitions.role",
+    "pk": 4,
+    "fields": {
+      "name": "REFEREE"
+    }
+  }
+]
